@@ -34,15 +34,6 @@
 [submodule "modules/editor/emacs/xtra/zenburn/data/zenburn-emacs.git"]
 	path = modules/editor/emacs/xtra/zenburn/data/zenburn-emacs.git
 	url = git://github.com/bbatsov/zenburn-emacs.git
-[submodule "modules/terminal/shell/scripts/data/shssword.git"]
-	path = modules/terminal/shell/scripts/data/shssword.git
-	url = git://github.com/dgvncsz0f/shssword.git
-[submodule "modules/terminal/shell/scripts/data/dot-install.git"]
-	path = modules/terminal/shell/scripts/data/dot-install.git
-	url = git://github.com/dgvncsz0f/dot-install.git
-[submodule "modules/terminal/shell/scripts/data/dzen-tools.git"]
-	path = modules/terminal/shell/scripts/data/dzen-tools.git
-	url = git://github.com/dgvncsz0f/dzen-tools.git
 [submodule "modules/editor/emacs/xtra/expand-region/data/expand-region.git"]
 	path = modules/editor/emacs/xtra/expand-region/data/expand-region.git
 	url = git://github.com/magnars/expand-region.el.git
@@ -70,9 +61,6 @@
 [submodule "modules/editor/emacs/xtra/powerline/data/powerline"]
 	path = modules/editor/emacs/xtra/powerline/data/powerline.git
 	url = https://github.com/milkypostman/powerline.git
-[submodule "modules/terminal/shell/bash/xtra/dircolors-solarized/data/dircolors-solarized.git"]
-	path = modules/terminal/shell/bash/xtra/dircolors-solarized/data/dircolors-solarized.git
-	url = git://github.com/seebi/dircolors-solarized.git
 [submodule "modules/editor/emacs/xtra/better-registers/data/better-registers.git"]
 	path = modules/editor/emacs/xtra/better-registers/data/better-registers.git
 	url = git://github.com/emacsmirror/better-registers.git
