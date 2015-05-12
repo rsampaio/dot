@@ -83,7 +83,7 @@
 )
 
 (setq org-directory "~/Dropbox/org")
-(setq org-agenda-files 'org-directory)
+(setq org-agenda-files (list org-directory))
 (setq org-default-notes-file (concat org-directory "/notes.org"))
 (define-key global-map "\C-cc" 'org-capture)
 
